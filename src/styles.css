@@ -1,0 +1,25 @@
+form {
+  min-height: 200px;
+  max-width: 800px;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+label {
+  display: block;
+}
+
+span,
+input {
+  display: inline-block;
+  margin-bottom: 1.2rem;
+}
+
+pre {
+  text-align: left;
+  background: #eee;
+}
+
+.buttons {
+  text-align: center;
+}
